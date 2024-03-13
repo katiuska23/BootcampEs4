@@ -1,11 +1,11 @@
-Algoritmo pares
-	// Hacer un pseudocodigo que imprima alos numeros del 0 al 100
+Algoritmo Pares
+	// Hacer un pseudocodigo que imprima los numeros Pares entre del 0 al 100\
 	Definir x Como Entero
-	x = 0;
+	x = 0;\
 	Mientras x <= 100 Hacer
 		si x mod 2 == 0 Entonces
 			Escribir x;
 		FinSi
-		x = x +1
+		x = x + 1
 	Fin Mientras
 FinAlgoritmo
