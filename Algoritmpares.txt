@@ -4,7 +4,7 @@ Algoritmo Pares
 	x = 0;\
 	Mientras x <= 100 Hacer
 		si x mod 2 == 0 Entonces
-			Escribir x;
+			Escribir "Los Numeros Pares comprendido entre 0-100 son:", x;
 		FinSi
 		x = x + 1
 	Fin Mientras
