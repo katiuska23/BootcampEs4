@@ -4,6 +4,11 @@ body
     text-align: center;
     font-family: "Arial";
 }
+img{
+    width: 250px;
+    padding: 0 15px;
+    float: right;
+}
 #container
 {
     width: 70%;
